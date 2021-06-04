@@ -1,0 +1,4 @@
+User-agent: Yandex
+
+Host: scskulptor.ru
+Sitemap: https://scskulptor.ru/sitemap.xml
