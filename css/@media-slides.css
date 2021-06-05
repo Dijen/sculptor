@@ -8,9 +8,12 @@
             width: 100%;
         }
         iframe {
-            max-width: 780px;
+            max-width: inherit;
             width: 100%;
             z-index: 0;
+        }
+        #home iframe {
+            width: inherit;
         }
         .next {
             right: 9%;
@@ -56,7 +59,7 @@
             z-index: 100;
         }
         iframe {
-            max-width: 760px;
+            max-width: inherit;
             width: 100%;
         }
     }
@@ -88,7 +91,7 @@
             left: 45%;
         }
         iframe {
-            max-width: 730px;
+            max-width: inherit;
             width: 100%;
         }
     }
@@ -106,7 +109,7 @@
             left: 6%;
         }
         iframe {
-            max-width: 690px;
+            max-width: inherit;
             width: 100%;
         }
     }
@@ -130,7 +133,7 @@
             left: 3%;
         }
         iframe {
-            max-width: 670px;
+            max-width: inherit;
             width: 100%;
         }
     }
@@ -148,7 +151,7 @@
             left: 3%;
         }
         iframe {
-            max-width: 650px;
+            max-width: inherit;
             width: 100%;
         }
     }
@@ -171,7 +174,7 @@
             width: 780px;
         }
         iframe {
-            max-width: 630px;
+            max-width: inherit;
             width: 100%;
         }
     }
@@ -209,7 +212,7 @@
             top: 95%;
         }
         iframe {
-            max-width: 630px;
+            max-width: inherit;
             width: 100%;
         }
         .slideshow,
@@ -324,7 +327,7 @@
             width: 100%;
         }
         iframe {
-            max-width: 620px;
+            max-width: inherit;
             width: 100%;
         }
     }
@@ -339,7 +342,7 @@
             width: 100%;
         }
         iframe {
-            max-width: 600px;
+            max-width: inherit;
             width: 100%;
         }
     }
@@ -358,7 +361,7 @@
             right: 13%;
         }
         iframe {
-            max-width: 580px;
+            max-width: inherit;
             width: 100%;
         }
     }
@@ -387,7 +390,7 @@
             top: 80%;
         }
         iframe {
-            max-width: 540px;
+            max-width: inherit;
             width: 100%;
             height: 375px;
         }
@@ -406,7 +409,7 @@
             left: 42%;
         }
         iframe {
-            max-width: 510px;
+            max-width: inherit;
             width: 100%;
             height: 375px;
         }
@@ -428,7 +431,7 @@
             left: 7%;
         }
         iframe {
-            max-width: 480px;
+            max-width: inherit;
             width: 100%;
             height: 375px;
         }
@@ -456,7 +459,7 @@
             top: 80%;
         }
         iframe {
-            max-width: 460px;
+            max-width: inherit;
             width: 100%;
             height: 375px;
         }
@@ -541,7 +544,7 @@
             top: 85%;
         }
         iframe {
-            max-width: 450px;
+            max-width: inherit;
             width: 100%;
             height: 355px;
         }
@@ -601,7 +604,7 @@
             left: 41%;
         }
         iframe {
-            max-width: 420px;
+            max-width: inherit;
             width: 100%;
             height: 300px;
         }
@@ -638,7 +641,7 @@
             height: 5px;
         }
         iframe {
-            max-width: 400px;
+            max-width: inherit;
             width: 100%;
             height: 300px;
         }
@@ -678,9 +681,9 @@
             left: 39%;
         }
         iframe {
-            max-width: 360px;
+            max-width: inherit;
             width: 100%;
-            height: 300px;
+            height: 460px;
         }
     }
     
@@ -715,9 +718,9 @@
             height: 5px;
         }
         iframe {
-            max-width: 340px;
+            max-width: inherit;
             width: 100%;
-            height: 280px;
+            height: 460px;
         }
     }
     
@@ -755,9 +758,9 @@
             left: 38%;
         }
         iframe {
-            max-width: 310px;
+            max-width: inherit;
             width: 100%;
-            height: 280px;
+            height: 460px;
         }
     }
     
@@ -795,8 +798,7 @@
             left: 37%;
         }
         iframe {
-            max-width: 290px;
+            max-width: inherit;
             width: 100%;
-            height: 280px;
         }
     }
